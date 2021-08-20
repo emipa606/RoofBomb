@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-	<LanguageData>
-		<RoofBomb.label>roof bomb</RoofBomb.label>
-		<RoofBomb.description>An explosive which destroys roofs directly above it.</RoofBomb.description>
-	</LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoofBomb.label>roof bomb</RoofBomb.label>
+  <RoofBomb.description>An explosive which destroys roofs directly above it.</RoofBomb.description>
+</LanguageData>

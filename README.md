@@ -1,10 +1,32 @@
 # RoofBomb
-Adds a roof removal bomb to Rimworld
-----------
-> **How to Install**
-> - Open the downloaded ZIP archive;
-> - Go to your RimWorld download location;
-> - Drag and drop the extracted RoofBomb folder into your RimWorld/Mods/ folder (not in Core);
-> - Start up your game;  
-> - Click the Mods button and activate your mods. 
+
+![Image](https://i.imgur.com/WAEzk68.png)
+
+Update of Skullywags mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=731737035
+Based on dariooo512's version
+https://steamcommunity.com/sharedfiles/filedetails/?id=1539350259
+
+- Will no longer leave resources when exploding
+- Research now has IEDs as requirement
+
+![Image](https://i.imgur.com/7Gzt3Rg.png)
+
+	
+![Image](https://i.imgur.com/NOW7jU1.png)
+
+Adds an explosive device capable of removing roofs. More than 1 may be required, will turn mountain roof to thin rock roof and removes thin rock roof.
+
+![Image](https://i.imgur.com/Rs6T6cr.png)
+
+
+
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+
+
 

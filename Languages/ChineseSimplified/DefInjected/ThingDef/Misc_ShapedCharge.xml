@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-	<LanguageData>
-		<RoofBomb.label>屋顶炸弹</RoofBomb.label>
-		<RoofBomb.description>一个小型炸弹，引爆后会摧毁其上方的屋顶。\n有效范围：1×1</RoofBomb.description>
-	</LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RoofBomb.label>屋顶炸弹</RoofBomb.label>
+  <RoofBomb.description>一个小型炸弹，引爆后会摧毁其上方的屋顶。\n有效范围：1×1</RoofBomb.description>
+</LanguageData>

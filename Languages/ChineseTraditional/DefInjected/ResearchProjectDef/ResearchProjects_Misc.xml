@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-	<LanguageData>
-		<ShapedCharges.label>屋頂炸彈</ShapedCharges.label>
-		<ShapedCharges.description>允許你建造「屋頂炸彈」來炸毀厚岩頂，儘管它用起來有點兒奢侈。\n建造材料：鋼鐵×100 零部件×1</ShapedCharges.description>
-	</LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShapedCharges.label>屋頂炸彈</ShapedCharges.label>
+  <ShapedCharges.description>允許你建造「屋頂炸彈」來炸毀厚岩頂，儘管它用起來有點兒奢侈。\n建造材料：鋼鐵×100 零部件×1</ShapedCharges.description>
+</LanguageData>

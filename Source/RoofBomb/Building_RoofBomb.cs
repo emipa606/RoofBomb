@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Verse;
-using UnityEngine;
 using RimWorld;
+using UnityEngine;
+using Verse;
 
 namespace RoofBomb
 {
@@ -25,11 +25,9 @@ namespace RoofBomb
 
         public override void Destroy(DestroyMode mode = DestroyMode.Vanish)
         {
-            var map = Map; // before Destroy()!
-
+            var map = Map;
             base.Destroy(mode);
-            MoteMaker.ThrowMicroSparks(DrawPos, map);
-
+            FleckMaker.ThrowMicroSparks(DrawPos, map);
             if (mode != DestroyMode.KillFinalize)
             {
                 return;
