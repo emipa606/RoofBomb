@@ -6,7 +6,7 @@
     <thingClass>RoofBomb.Building_RoofBomb</thingClass>
     <drawerType>MapMeshAndRealTime</drawerType>
     <graphicData>
-      <texPath>Things/Building/ShapedCharge</texPath>
+      <texPath>Things/Building/RoofBomb</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <altitudeLayer>Building</altitudeLayer>

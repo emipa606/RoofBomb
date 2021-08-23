@@ -5,7 +5,7 @@
     <label>roof bomb</label>
     <thingClass>RoofBomb.Building_RoofBomb</thingClass>
     <graphicData>
-      <texPath>Things/Building/ShapedCharge</texPath>
+      <texPath>Things/Building/RoofBomb</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <altitudeLayer>Building</altitudeLayer>
