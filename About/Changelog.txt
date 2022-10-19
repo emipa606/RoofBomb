@@ -1,5 +1,8 @@
 # Changelog for RoofBomb
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.0.3.0 - Renamed the graphic as to not conflict with ChapedCharges mod
 
 
