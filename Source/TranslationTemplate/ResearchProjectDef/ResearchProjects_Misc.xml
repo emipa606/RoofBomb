@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Shaped Charges -->
+  <ShapedCharges.label>Shaped Charges</ShapedCharges.label>
+  <!-- EN: Allows the use of shaped charges for roof removal purposes. -->
+  <ShapedCharges.description>Allows the use of shaped charges for roof removal purposes.</ShapedCharges.description>
+</LanguageData>
